@@ -6,7 +6,12 @@ from html import escape
 from pathlib import Path
 from urllib.parse import urlencode
 
-import altair as alt
+try:
+    import altair as alt
+    ALTAIR_IMPORT_ERROR = None
+except Exception as exc:  # pragma: no cover - cloud dependency fallback
+    alt = None
+    ALTAIR_IMPORT_ERROR = exc
 import pandas as pd
 import streamlit as st
 from pandas.errors import EmptyDataError
@@ -146,6 +151,28 @@ def format_pct(value) -> str:
 
 def render_breadcrumb(items: list[str]) -> None:
     st.caption(" > ".join(items))
+
+
+def altair_ready() -> bool:
+    return alt is not None
+
+
+def render_altair_fallback(title: str, frame: pd.DataFrame, columns: list[str] | None = None) -> None:
+    if ALTAIR_IMPORT_ERROR and not st.session_state.get("_altair_import_warning_shown"):
+        st.warning(
+            "Geavanceerde grafieken zijn tijdelijk niet beschikbaar in deze omgeving. "
+            "De kerngegevens blijven wel zichtbaar."
+        )
+        st.session_state["_altair_import_warning_shown"] = True
+    st.caption(f"{title} wordt tijdelijk als tabel getoond.")
+    if frame.empty:
+        st.caption("Geen gegevens beschikbaar.")
+        return
+    display = frame.copy()
+    if columns:
+        available = [column for column in columns if column in display.columns]
+        display = display[available]
+    st.dataframe(display, use_container_width=True, hide_index=True)
 
 
 def build_data_status(state: dict, tables: dict[str, pd.DataFrame]) -> pd.DataFrame:
@@ -393,7 +420,7 @@ def prepare_hemicycle_colors(hemi: pd.DataFrame, filter_name: str) -> tuple[pd.D
     )
 
 
-def build_top_members_visual(member_stats: pd.DataFrame, metric_column: str, metric_label: str) -> alt.Chart:
+def build_top_members_preview(member_stats: pd.DataFrame, metric_column: str) -> pd.DataFrame:
     preview = (
         member_stats.assign(
             metric_value=pd.to_numeric(member_stats[metric_column], errors="coerce").fillna(0),
@@ -403,13 +430,18 @@ def build_top_members_visual(member_stats: pd.DataFrame, metric_column: str, met
         .head(12)
         .sort_values("metric_value", ascending=True)
     )
+    preview["label"] = preview["volledige_naam"] + " (" + preview["fractie_naam"].fillna("?") + ")"
+    return preview
 
 
 def build_member_popup_card(member_stats: pd.DataFrame, popup_member_id: int | None) -> pd.DataFrame:
     if popup_member_id is None or member_stats.empty:
         return pd.DataFrame()
     return member_stats[member_stats["member_id"].apply(coerce_int) == popup_member_id].head(1)
-    preview["label"] = preview["volledige_naam"] + " (" + preview["fractie_naam"].fillna("?") + ")"
+
+
+def build_top_members_visual(member_stats: pd.DataFrame, metric_column: str, metric_label: str):
+    preview = build_top_members_preview(member_stats, metric_column)
     return (
         alt.Chart(preview)
         .mark_bar(cornerRadiusEnd=7)
@@ -888,7 +920,15 @@ def render_parliament_view(member_stats: pd.DataFrame, fraction_stats: pd.DataFr
     with preview_col1:
         st.subheader("Actiefste politici")
         metric_column, metric_axis_label = visual_config["top_metric"]
-        st.altair_chart(build_top_members_visual(member_stats, metric_column, metric_axis_label), use_container_width=True)
+        top_members_preview = build_top_members_preview(member_stats, metric_column)
+        if altair_ready():
+            st.altair_chart(build_top_members_visual(member_stats, metric_column, metric_axis_label), use_container_width=True)
+        else:
+            render_altair_fallback(
+                "Actiefste politici",
+                top_members_preview,
+                ["volledige_naam", "fractie_naam", "metric_value", "attendance_pct", "written_questions_asked", "oral_items_asked"],
+            )
         if not top_member.empty:
             st.caption(
                 f"Meest actieve vraagsteller: {top_member.iloc[0]['volledige_naam']} "
@@ -910,22 +950,29 @@ def render_parliament_view(member_stats: pd.DataFrame, fraction_stats: pd.DataFr
         if not committee_stats.empty:
             st.markdown("**Commissies met hoogste gemiddelde activiteit**")
             committee_preview = committee_stats.sort_values("avg_member_activity", ascending=False).head(5)
-            committee_chart = (
-                alt.Chart(committee_preview)
-                .mark_bar(cornerRadiusEnd=7)
-                .encode(
-                    x=alt.X("avg_member_activity:Q", title="Gem. activiteit per lid"),
-                    y=alt.Y("committee_name:N", title=None, sort="-x"),
-                    color=alt.Color(
-                        "avg_plenary_attendance_pct:Q",
-                        scale=alt.Scale(domain=[0, 100], range=["#dc2626", "#facc15", "#16a34a"]),
-                        title="Gem. aanwezigheid %",
-                    ),
-                    tooltip=["committee_name", "members", "oral_items", "avg_member_activity", "avg_plenary_attendance_pct"],
+            if altair_ready():
+                committee_chart = (
+                    alt.Chart(committee_preview)
+                    .mark_bar(cornerRadiusEnd=7)
+                    .encode(
+                        x=alt.X("avg_member_activity:Q", title="Gem. activiteit per lid"),
+                        y=alt.Y("committee_name:N", title=None, sort="-x"),
+                        color=alt.Color(
+                            "avg_plenary_attendance_pct:Q",
+                            scale=alt.Scale(domain=[0, 100], range=["#dc2626", "#facc15", "#16a34a"]),
+                            title="Gem. aanwezigheid %",
+                        ),
+                        tooltip=["committee_name", "members", "oral_items", "avg_member_activity", "avg_plenary_attendance_pct"],
+                    )
+                    .properties(height=240)
                 )
-                .properties(height=240)
-            )
-            st.altair_chart(committee_chart, use_container_width=True)
+                st.altair_chart(committee_chart, use_container_width=True)
+            else:
+                render_altair_fallback(
+                    "Commissies met hoogste gemiddelde activiteit",
+                    committee_preview,
+                    ["committee_name", "members", "oral_items", "avg_member_activity", "avg_plenary_attendance_pct"],
+                )
 
 
 def render_fraction_view(
@@ -1174,43 +1221,50 @@ def render_member_view(
         with chart_col1:
             with st.container(border=True):
                 st.markdown("**Activiteitsmix**")
-                activity_chart = (
-                    alt.Chart(activity_breakdown)
-                    .mark_bar(cornerRadiusEnd=6)
-                    .encode(
-                        x=alt.X("aantal:Q", title="Aantal dossiers"),
-                        y=alt.Y("label:N", title=None, sort="-x"),
-                        color=alt.Color(
-                            "rol:N",
-                            scale=alt.Scale(domain=["Vraagsteller", "Minister"], range=["#2563eb", "#9333ea"]),
-                        ),
-                        tooltip=["categorie", "rol", "aantal"],
+                if altair_ready():
+                    activity_chart = (
+                        alt.Chart(activity_breakdown)
+                        .mark_bar(cornerRadiusEnd=6)
+                        .encode(
+                            x=alt.X("aantal:Q", title="Aantal dossiers"),
+                            y=alt.Y("label:N", title=None, sort="-x"),
+                            color=alt.Color(
+                                "rol:N",
+                                scale=alt.Scale(domain=["Vraagsteller", "Minister"], range=["#2563eb", "#9333ea"]),
+                            ),
+                            tooltip=["categorie", "rol", "aantal"],
+                        )
+                        .properties(height=240)
                     )
-                    .properties(height=240)
-                )
-                st.altair_chart(activity_chart, use_container_width=True)
+                    st.altair_chart(activity_chart, use_container_width=True)
+                else:
+                    render_altair_fallback("Activiteitsmix", activity_breakdown, ["categorie", "rol", "aantal"])
         with chart_col2:
             with st.container(border=True):
                 st.markdown("**Themaprofiel**")
                 if theme_frame.empty:
                     st.caption("Nog onvoldoende thematische signalen.")
                 else:
-                    theme_chart = (
-                        alt.Chart(theme_frame.sort_values("score", ascending=True))
-                        .mark_bar(cornerRadiusEnd=6)
-                        .encode(
-                            x=alt.X("score:Q", title="Themascore"),
-                            y=alt.Y("theme:N", title=None),
-                            color=alt.Color(
-                                "score:Q",
-                                scale=alt.Scale(range=["#f59e0b", "#ea580c", "#b91c1c"]),
-                                legend=None,
-                            ),
-                            tooltip=["theme", "score", "matches"],
+                    theme_display = theme_frame.sort_values("score", ascending=True)
+                    if altair_ready():
+                        theme_chart = (
+                            alt.Chart(theme_display)
+                            .mark_bar(cornerRadiusEnd=6)
+                            .encode(
+                                x=alt.X("score:Q", title="Themascore"),
+                                y=alt.Y("theme:N", title=None),
+                                color=alt.Color(
+                                    "score:Q",
+                                    scale=alt.Scale(range=["#f59e0b", "#ea580c", "#b91c1c"]),
+                                    legend=None,
+                                ),
+                                tooltip=["theme", "score", "matches"],
+                            )
+                            .properties(height=240)
                         )
-                        .properties(height=240)
-                    )
-                    st.altair_chart(theme_chart, use_container_width=True)
+                        st.altair_chart(theme_chart, use_container_width=True)
+                    else:
+                        render_altair_fallback("Themaprofiel", theme_display, ["theme", "score", "matches"])
         with chart_col3:
             with st.container(border=True):
                 st.markdown("**Snelle lezing**")
@@ -1230,25 +1284,28 @@ def render_member_view(
 
         with st.container(border=True):
             st.markdown("**Aanwezigheid**")
-            attendance_chart = (
-                alt.Chart(attendance_breakdown)
-                .mark_bar(cornerRadiusEnd=6)
-                .encode(
-                    x=alt.X("sum(aantal):Q", title="Aantal registraties"),
-                    y=alt.Y("scope:N", title=None),
-                    color=alt.Color(
-                        "status:N",
-                        scale=alt.Scale(
-                            domain=["Aanwezig", "Afwezig", "Verontschuldigd"],
-                            range=["#16a34a", "#dc2626", "#f59e0b"],
+            if altair_ready():
+                attendance_chart = (
+                    alt.Chart(attendance_breakdown)
+                    .mark_bar(cornerRadiusEnd=6)
+                    .encode(
+                        x=alt.X("sum(aantal):Q", title="Aantal registraties"),
+                        y=alt.Y("scope:N", title=None),
+                        color=alt.Color(
+                            "status:N",
+                            scale=alt.Scale(
+                                domain=["Aanwezig", "Afwezig", "Verontschuldigd"],
+                                range=["#16a34a", "#dc2626", "#f59e0b"],
+                            ),
                         ),
-                    ),
-                    order=alt.Order("status:N", sort="ascending"),
-                    tooltip=["scope", "status", "aantal"],
+                        order=alt.Order("status:N", sort="ascending"),
+                        tooltip=["scope", "status", "aantal"],
+                    )
+                    .properties(height=210)
                 )
-                .properties(height=210)
-            )
-            st.altair_chart(attendance_chart, use_container_width=True)
+                st.altair_chart(attendance_chart, use_container_width=True)
+            else:
+                render_altair_fallback("Aanwezigheid", attendance_breakdown, ["scope", "status", "aantal"])
 
         with st.container(border=True):
             st.markdown("**Recente activiteit**")
