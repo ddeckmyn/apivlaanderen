@@ -5,6 +5,7 @@ Deze app is voorbereid om rechtstreeks vanaf GitHub te draaien op Streamlit Comm
 ## Wat al in orde is
 
 - `requirements.txt` staat in de repo
+- `runtime.txt` zet Python expliciet op 3.12
 - entrypoint is `app.py`
 - de app valt automatisch terug op de nieuwste lokale snapshot in `data/store_snapshots/`
 - `venv/` en lokale secrets worden niet mee gecommit
@@ -59,6 +60,8 @@ Hou zeker deze mappen/bestanden in GitHub:
    - branch: `main`
    - main file path: `app.py`
 5. Klik `Deploy`
+
+Als de app al eens fout gedeployed is op een verkeerde Python-versie, kies dan in Streamlit `Reboot app` of `Redeploy` nadat `runtime.txt` op GitHub staat.
 
 ## 4. Toegang beperken
 

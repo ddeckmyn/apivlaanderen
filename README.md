@@ -40,6 +40,8 @@ python .\scripts\generate_member_ai_overviews.py
 
 Zie [docs/streamlit_community_cloud.md](docs/streamlit_community_cloud.md).
 
+De online deploy gebruikt expliciet Python 3.12 via `runtime.txt`, zodat de Streamlit/Altair-stack niet op een incompatibele nieuwere Python-versie draait.
+
 ## Belangrijke noot
 
 Deze repo bevat een gepubliceerde snapshot voor de online app. De dataverzameling en refresh kunnen lokaal blijven draaien; daarna commit je een nieuwe snapshot naar GitHub zodat de gedeelde app automatisch ververst.
