@@ -1,0 +1,125 @@
+﻿fractie_id,member_id,volledige_naam,voornaam,naam,kieskring,zetel,deelstaatsenator,is_huidige_vv,self_opendata_url,fotowebpath
+1829396,4650,Inge Brocken,Inge,Brocken,Kieskring Oost-Vlaanderen,117,False,J,https://ws.vlpar.be/e/opendata/vv/4650?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065573
+1829396,4658,Jurgen Callaerts,Jurgen,Callaerts,Kieskring Antwerpen,114,False,J,https://ws.vlpar.be/e/opendata/vv/4658?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2068975
+1829396,4657,Mieke Claes,Mieke,Claes,Kieskring Limburg,116,False,J,https://ws.vlpar.be/e/opendata/vv/4657?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2068977
+1829396,4444,Arnout Coel,Arnout,Coel,Kieskring Vlaams-Brabant,50,True,J,https://ws.vlpar.be/e/opendata/vv/4444?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1487407
+1829396,4070,Koen Daniëls,Koen,Daniëls,Kieskring Oost-Vlaanderen,35,False,J,https://ws.vlpar.be/e/opendata/vv/4070?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1490202
+1829396,4613,Gijs Degrande,Gijs,Degrande,Kieskring West-Vlaanderen,89,False,J,https://ws.vlpar.be/e/opendata/vv/4613?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2075177
+1829396,4659,Manu Diericx,Manu,Diericx,Kieskring Oost-Vlaanderen,113,True,J,https://ws.vlpar.be/e/opendata/vv/4659?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2082476
+1829396,4615,Koen Dillen,Koen,Dillen,Kieskring Antwerpen,91,False,J,https://ws.vlpar.be/e/opendata/vv/4615?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065118
+1829396,4399,Karolien Grosemans,Karolien,Grosemans,Kieskring Limburg,17,False,J,https://ws.vlpar.be/e/opendata/vv/4399?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482465
+1829396,4077,Andries Gryffroy,Andries,Gryffroy,Kieskring Oost-Vlaanderen,68,True,J,https://ws.vlpar.be/e/opendata/vv/4077?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1964484
+1829396,3445,Marc Hendrickx,Marc,Hendrickx,Kieskring Antwerpen,111,True,J,https://ws.vlpar.be/e/opendata/vv/3445?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2130575
+1829396,4738,An Hermans,An,Hermans,Kieskring Antwerpen,112,False,J,https://ws.vlpar.be/e/opendata/vv/4738?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2113527
+1829396,3411,Liesbeth Homans,Liesbeth,Homans,Kieskring Antwerpen,4,False,J,https://ws.vlpar.be/e/opendata/vv/3411?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482514
+1829396,4618,Katrien Houtmeyers,Katrien,Houtmeyers,Kieskring Vlaams-Brabant,33,False,J,https://ws.vlpar.be/e/opendata/vv/4618?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2070073
+1829396,4078,Sofie Joosen,Sofie,Joosen,Kieskring Antwerpen,51,False,J,https://ws.vlpar.be/e/opendata/vv/4078?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1478804
+1829396,4622,Sander Loones,Sander,Loones,Kieskring West-Vlaanderen,18,False,J,https://ws.vlpar.be/e/opendata/vv/4622?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065574
+1829396,4110,Bert Maertens,Bert,Maertens,Kieskring West-Vlaanderen,6,False,J,https://ws.vlpar.be/e/opendata/vv/4110?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2214538
+1829396,3461,Philippe Muyters,Philippe,Muyters,Kieskring Antwerpen,5,False,J,https://ws.vlpar.be/e/opendata/vv/3461?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482432
+1829396,4405,Freya Perdaens,Freya,Perdaens,Kieskring Antwerpen,69,False,J,https://ws.vlpar.be/e/opendata/vv/4405?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2075780
+1829396,4651,Andy Pieters,Andy,Pieters,Kieskring Limburg,87,True,J,https://ws.vlpar.be/e/opendata/vv/4651?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065180
+1829396,4632,Tomas Roggeman,Tomas,Roggeman,Kieskring Oost-Vlaanderen,70,False,J,https://ws.vlpar.be/e/opendata/vv/4632?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065572
+1829396,4634,Eva Ryde,Eva,Ryde,Kieskring West-Vlaanderen,66,False,J,https://ws.vlpar.be/e/opendata/vv/4634?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065169
+1829396,4635,Tom Seurs,Tom,Seurs,Kieskring Limburg,67,False,J,https://ws.vlpar.be/e/opendata/vv/4635?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065570
+1829396,4413,Sarah Smeyers,Sarah,Smeyers,Kieskring Oost-Vlaanderen,32,False,J,https://ws.vlpar.be/e/opendata/vv/4413?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1929754
+1829396,4089,Nadia Sminate,Nadia,Sminate,Kieskring Vlaams-Brabant,34,False,J,https://ws.vlpar.be/e/opendata/vv/4089?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1657128
+1829396,4648,Ine Tombeur,Ine,Tombeur,Kieskring Vlaams-Brabant,88,True,J,https://ws.vlpar.be/e/opendata/vv/4648?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2064972
+1829396,4660,Hans Vanhoof,Hans,Vanhoof,Kieskring Vlaams-Brabant,115,False,J,https://ws.vlpar.be/e/opendata/vv/4660?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2068976
+1829396,4644,Sanne Van Looy,Sanne,Van Looy,Kieskring Antwerpen,90,False,J,https://ws.vlpar.be/e/opendata/vv/4644?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065567
+1829396,4102,Karl Vanlouwe,Karl,Vanlouwe,Kieskring Brussel-Hoofdstad,49,True,J,https://ws.vlpar.be/e/opendata/vv/4102?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1478858
+1829396,4064,Paul Van Miert,Paul,Van Miert,Kieskring Antwerpen,52,False,J,https://ws.vlpar.be/e/opendata/vv/4064?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1752953
+1829396,4633,Griet Vanryckegem,Griet,Vanryckegem,Kieskring West-Vlaanderen,19,True,J,https://ws.vlpar.be/e/opendata/vv/4633?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2105136
+1829398,4601,Michiel Awouters,Michiel,Awouters,Kieskring Limburg,84,False,J,https://ws.vlpar.be/e/opendata/vv/4601?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2064991
+1829398,4384,Roosmarijn Beckers,Roosmarijn,Beckers,Kieskring Limburg,2,False,J,https://ws.vlpar.be/e/opendata/vv/4384?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2089719
+1829398,4386,Adeline Blancquaert,Adeline,Blancquaert,Kieskring Oost-Vlaanderen,48,False,J,https://ws.vlpar.be/e/opendata/vv/4386?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482587
+1829398,4387,Filip Brusselmans,Filip,Brusselmans,Kieskring Oost-Vlaanderen,3,False,J,https://ws.vlpar.be/e/opendata/vv/4387?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482451
+1829398,4388,Yves Buysse,Yves,Buysse,Kieskring West-Vlaanderen,81,True,J,https://ws.vlpar.be/e/opendata/vv/4388?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482490
+1829398,4390,Bart Claes,Bart,Claes,Kieskring Antwerpen,15,False,J,https://ws.vlpar.be/e/opendata/vv/4390?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482443
+1829398,4608,Mercina Claesen,Mercina,Claesen,Kieskring Limburg,63,False,J,https://ws.vlpar.be/e/opendata/vv/4608?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065041
+1829398,2838,Johan Deckmyn,Johan,Deckmyn,Kieskring Oost-Vlaanderen,46,True,J,https://ws.vlpar.be/e/opendata/vv/2838?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482463
+1829398,4432,Immanuel De Reuse,Immanuel,De Reuse,Kieskring West-Vlaanderen,16,False,J,https://ws.vlpar.be/e/opendata/vv/4432?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482458
+1829398,4614,Dries Devillé,Dries,Devillé,Kieskring Antwerpen,62,False,J,https://ws.vlpar.be/e/opendata/vv/4614?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065749
+1829398,1803,Filip Dewinter,Filip,Dewinter,Kieskring Antwerpen,28,False,J,https://ws.vlpar.be/e/opendata/vv/1803?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482452
+1829398,4074,Guy D'haeseleer,Guy,D'haeseleer,Kieskring Oost-Vlaanderen,105,False,J,https://ws.vlpar.be/e/opendata/vv/4074?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1541981
+1829398,4616,Frédéric Erens,Frédéric,Erens,Kieskring Vlaams-Brabant,108,False,J,https://ws.vlpar.be/e/opendata/vv/4616?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065748
+1829398,3418,Chris Janssens,Chris,Janssens,Kieskring Limburg,1,False,J,https://ws.vlpar.be/e/opendata/vv/3418?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482447
+1829398,4400,Jan Laeremans,Jan,Laeremans,Kieskring Vlaams-Brabant,64,False,J,https://ws.vlpar.be/e/opendata/vv/4400?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482460
+1829398,4621,Tom Lamont,Tom,Lamont,Kieskring West-Vlaanderen,45,False,J,https://ws.vlpar.be/e/opendata/vv/4621?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065750
+1829398,1847,Dominiek Lootens-Stael,Dominiek,Lootens-Stael,Kieskring Brussel-Hoofdstad,29,False,J,https://ws.vlpar.be/e/opendata/vv/1847?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065271
+1829398,4403,Ilse Malfroot,Ilse,Malfroot,Kieskring Oost-Vlaanderen,106,False,J,https://ws.vlpar.be/e/opendata/vv/4403?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482706
+1829398,3298,Leo Pieters,Leo,Pieters,Kieskring Limburg,107,False,J,https://ws.vlpar.be/e/opendata/vv/3298?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2215480
+1829398,4408,Carmen Ryheul,Carmen,Ryheul,Kieskring West-Vlaanderen,61,False,J,https://ws.vlpar.be/e/opendata/vv/4408?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482720
+1829398,2825,Stefaan Sintobin,Stefaan,Sintobin,Kieskring West-Vlaanderen,31,False,J,https://ws.vlpar.be/e/opendata/vv/2825?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1478515
+1829398,4410,Kristof Slagmulder,Kristof,Slagmulder,Kieskring Oost-Vlaanderen,47,True,J,https://ws.vlpar.be/e/opendata/vv/4410?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2069862
+1829398,4412,Klaas Slootmans,Klaas,Slootmans,Kieskring Vlaams-Brabant,13,True,J,https://ws.vlpar.be/e/opendata/vv/4412?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1483275
+1829398,4416,Els Sterckx,Els,Sterckx,Kieskring Antwerpen,82,False,J,https://ws.vlpar.be/e/opendata/vv/4416?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482450
+1829398,4649,Sarah T'Joens,Sarah,T'Joens,Kieskring West-Vlaanderen,86,False,J,https://ws.vlpar.be/e/opendata/vv/4649?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065751
+1829398,4647,Freija Van den Driessche,Freija,Van den Driessche,Kieskring Oost-Vlaanderen,14,False,J,https://ws.vlpar.be/e/opendata/vv/4647?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2064949
+1829398,4095,Anke Van dermeersch,Anke,Van dermeersch,Kieskring Antwerpen,30,True,J,https://ws.vlpar.be/e/opendata/vv/4095?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1483810
+1829398,4098,Tom Van Grieken,Tom,Van Grieken,Kieskring Antwerpen,104,False,J,https://ws.vlpar.be/e/opendata/vv/4098?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1478850
+1829398,4643,Bart Van Opstal,Bart,Van Opstal,Kieskring Antwerpen,85,False,J,https://ws.vlpar.be/e/opendata/vv/4643?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2073414
+1829398,4433,Wim Verheyden,Wim,Verheyden,Kieskring Antwerpen,65,True,J,https://ws.vlpar.be/e/opendata/vv/4433?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482489
+1829398,4429,Suzy Wouters,Suzy,Wouters,Kieskring Vlaams-Brabant,83,False,J,https://ws.vlpar.be/e/opendata/vv/4429?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482725
+1829393,4383,Hannes Anaf,Hannes,Anaf,Kieskring Antwerpen,8,False,J,https://ws.vlpar.be/e/opendata/vv/4383?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065849
+1829393,4735,Simon Bekaert,Simon,Bekaert,Kieskring West-Vlaanderen,122,False,J,https://ws.vlpar.be/e/opendata/vv/4735?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2101967
+1829393,2791,Kurt De Loor,Kurt,De Loor,Kieskring Oost-Vlaanderen,22,False,J,https://ws.vlpar.be/e/opendata/vv/2791?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065855
+1829393,4711,Hiba Faraji,Hiba,Faraji,Kieskring Antwerpen,75,False,J,https://ws.vlpar.be/e/opendata/vv/4711?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2264401
+1829393,4397,Hannelore Goeman,Hannelore,Goeman,Kieskring Brussel-Hoofdstad,95,False,J,https://ws.vlpar.be/e/opendata/vv/4397?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065848
+1829393,4623,Nawal Maghroud,Nawal,Maghroud,Kieskring West-Vlaanderen,40,True,J,https://ws.vlpar.be/e/opendata/vv/4623?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065859
+1829393,3221,Els Robeyns,Els,Robeyns,Kieskring Limburg,39,False,J,https://ws.vlpar.be/e/opendata/vv/3221?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065845
+1829393,4406,Conner Rousseau,Conner,Rousseau,Kieskring Oost-Vlaanderen,123,False,J,https://ws.vlpar.be/e/opendata/vv/4406?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065844
+1829393,4744,Jill Schellens,Jill,Schellens,Kieskring Vlaams-Brabant,96,False,J,https://ws.vlpar.be/e/opendata/vv/4744?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2268523
+1829393,4087,Katia Segers,Katia,Segers,Kieskring Vlaams-Brabant,55,True,J,https://ws.vlpar.be/e/opendata/vv/4087?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065852
+1829393,4637,Frederik Sioen,Frederik,Sioen,Kieskring Oost-Vlaanderen,73,False,J,https://ws.vlpar.be/e/opendata/vv/4637?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065846
+1829393,3458,Freya Van den Bossche,Freya,Van den Bossche,Kieskring Oost-Vlaanderen,125,False,J,https://ws.vlpar.be/e/opendata/vv/3458?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065847
+1829393,4736,Stephanie Vanden Eede,Stephanie,Vanden Eede,Kieskring Antwerpen,97,False,J,https://ws.vlpar.be/e/opendata/vv/4736?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2101991
+1829393,4740,Tina Van Havere,Tina,Van Havere,Kieskring Oost-Vlaanderen,56,False,J,https://ws.vlpar.be/e/opendata/vv/4740?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2147698
+1829393,4641,Kelly Van Tendeloo,Kelly,Van Tendeloo,Kieskring Antwerpen,74,True,J,https://ws.vlpar.be/e/opendata/vv/4641?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065853
+1829393,4630,Kris Verduyckt,Kris,Verduyckt,Kieskring Limburg,9,True,J,https://ws.vlpar.be/e/opendata/vv/4630?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065854
+1829393,4624,Bieke Verlinden,Bieke,Verlinden,Kieskring Vlaams-Brabant,121,False,J,https://ws.vlpar.be/e/opendata/vv/4624?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065842
+1829393,4741,Gianna Werbrouck,Gianna,Werbrouck,Kieskring West-Vlaanderen,23,False,J,https://ws.vlpar.be/e/opendata/vv/4741?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2143455
+1829394,3430,Robrecht Bothuyne,Robrecht,Bothuyne,Kieskring Oost-Vlaanderen,21,False,J,https://ws.vlpar.be/e/opendata/vv/3430?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1478675
+1829394,4605,Gilles Bultinck,Gilles,Bultinck,Kieskring Antwerpen,93,False,J,https://ws.vlpar.be/e/opendata/vv/4605?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065040
+1829394,4114,An Christiaens,An,Christiaens,Kieskring Limburg,54,False,J,https://ws.vlpar.be/e/opendata/vv/4114?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2064997
+1829394,4661,Kris Declercq,Kris,Declercq,Kieskring West-Vlaanderen,118,False,J,https://ws.vlpar.be/e/opendata/vv/4661?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2068973
+1829394,4525,Stijn De Roo,Stijn,De Roo,Kieskring Oost-Vlaanderen,72,True,J,https://ws.vlpar.be/e/opendata/vv/4525?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2122756
+1829394,4075,Bart Dochy,Bart,Dochy,Kieskring West-Vlaanderen,36,False,J,https://ws.vlpar.be/e/opendata/vv/4075?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1478795
+1829394,4572,Sofie Mertens,Sofie,Mertens,Kieskring Limburg,71,False,J,https://ws.vlpar.be/e/opendata/vv/4572?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2068972
+1829394,4059,Katrien Partyka,Katrien,Partyka,Kieskring Vlaams-Brabant,38,True,J,https://ws.vlpar.be/e/opendata/vv/4059?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1478755
+1829394,4631,Kris Poelaert,Kris,Poelaert,Kieskring Vlaams-Brabant,94,False,J,https://ws.vlpar.be/e/opendata/vv/4631?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065602
+1829394,3433,Katrien Schryvers,Katrien,Schryvers,Kieskring Antwerpen,20,False,J,https://ws.vlpar.be/e/opendata/vv/3433?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482712
+1829394,4636,Toon Vandeurzen,Toon,Vandeurzen,Kieskring Limburg,120,False,J,https://ws.vlpar.be/e/opendata/vv/4636?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065601
+1829394,4728,Lien Van Dooren,Lien,Van Dooren,Kieskring Oost-Vlaanderen,119,False,J,https://ws.vlpar.be/e/opendata/vv/4728?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2278600
+1829394,4425,Loes Vandromme,Loes,Vandromme,Kieskring West-Vlaanderen,37,False,J,https://ws.vlpar.be/e/opendata/vv/4425?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1482472
+1829394,4642,Mien Van Olmen,Mien,Van Olmen,Kieskring Antwerpen,92,False,J,https://ws.vlpar.be/e/opendata/vv/4642?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065577
+1829394,3918,Peter Van Rompuy,Peter,Van Rompuy,Kieskring Vlaams-Brabant,7,True,J,https://ws.vlpar.be/e/opendata/vv/3918?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2215856
+1829394,4443,Brecht Warnez,Brecht,Warnez,Kieskring West-Vlaanderen,53,False,J,https://ws.vlpar.be/e/opendata/vv/4443?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065390
+1829399,4606,Debby Burssens,Debby,Burssens,Kieskring Oost-Vlaanderen,80,True,J,https://ws.vlpar.be/e/opendata/vv/4606?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065584
+1829399,4609,Gaby Colebunders,Gaby,Colebunders,Kieskring Limburg,59,False,J,https://ws.vlpar.be/e/opendata/vv/4609?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065582
+1829399,4612,Line De Witte,Line,De Witte,Kieskring Vlaams-Brabant,44,False,J,https://ws.vlpar.be/e/opendata/vv/4612?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065583
+1829399,4411,Jos D'Haese,Jos,D'Haese,Kieskring Antwerpen,12,False,J,https://ws.vlpar.be/e/opendata/vv/4411?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065581
+1829399,4415,Lise Vandecasteele,Lise,Vandecasteele,Kieskring Antwerpen,27,False,J,https://ws.vlpar.be/e/opendata/vv/4415?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065651
+1829399,4639,Ilona Vandenberghe,Ilona,Vandenberghe,Kieskring West-Vlaanderen,79,False,J,https://ws.vlpar.be/e/opendata/vv/4639?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065172
+1829399,4638,Amina Vandenheuvel,Amina,Vandenheuvel,Kieskring Antwerpen,103,False,J,https://ws.vlpar.be/e/opendata/vv/4638?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065202
+1829399,4584,Onno Vandewalle,Onno,Vandewalle,Kieskring Oost-Vlaanderen,102,False,J,https://ws.vlpar.be/e/opendata/vv/4584?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1907670
+1829399,4645,Raf Van Gestel,Raf,Van Gestel,Kieskring Antwerpen,60,True,J,https://ws.vlpar.be/e/opendata/vv/4645?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065029
+1829395,4603,Fourat Ben Chikha,Fourat,Ben Chikha,Kieskring Oost-Vlaanderen,43,False,J,https://ws.vlpar.be/e/opendata/vv/4603?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065599
+1829395,4607,Kim Buyst,Kim,Buyst,Kieskring Antwerpen,78,False,J,https://ws.vlpar.be/e/opendata/vv/4607?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065626
+1829395,4617,Aimen Horch,Aimen,Horch,Kieskring Vlaams-Brabant,26,False,J,https://ws.vlpar.be/e/opendata/vv/4617?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065587
+1829395,4619,Bram Jaques,Bram,Jaques,Kieskring Brussel-Hoofdstad,101,False,J,https://ws.vlpar.be/e/opendata/vv/4619?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065215
+1829395,4625,Nadia Naji,Nadia,Naji,Kieskring Brussel-Hoofdstad,42,False,J,https://ws.vlpar.be/e/opendata/vv/4625?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065946
+1829395,4628,Eva Platteau,Eva,Platteau,Kieskring Vlaams-Brabant,58,True,J,https://ws.vlpar.be/e/opendata/vv/4628?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065586
+1829395,4409,Mieke Schauvliege,Mieke,Schauvliege,Kieskring Oost-Vlaanderen,11,False,J,https://ws.vlpar.be/e/opendata/vv/4409?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2073519
+1829395,4640,Bogdan Vanden Berghe,Bogdan,Vanden Berghe,Kieskring Antwerpen,100,False,J,https://ws.vlpar.be/e/opendata/vv/4640?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2066671
+1829395,4426,Jeremie Vaneeckhout,Jeremie,Vaneeckhout,Kieskring West-Vlaanderen,25,False,J,https://ws.vlpar.be/e/opendata/vv/4426?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1885269
+1829397,4610,Eva De Bleeker,Eva,De Bleeker,Kieskring Vlaams-Brabant,57,False,J,https://ws.vlpar.be/e/opendata/vv/4610?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2066059
+1829397,4395,Stephanie D'Hose,Stephanie,D'Hose,Kieskring Oost-Vlaanderen,77,True,J,https://ws.vlpar.be/e/opendata/vv/4395?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2075813
+1829397,3965,Egbert Lachaert,Egbert,Lachaert,Kieskring Oost-Vlaanderen,10,False,J,https://ws.vlpar.be/e/opendata/vv/3965?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065310
+1829397,4445,Tom Ongena,Tom,Ongena,Kieskring Antwerpen,76,False,J,https://ws.vlpar.be/e/opendata/vv/4445?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1734782
+1829397,3446,Lydia Peeters,Lydia,Peeters,Kieskring Limburg,24,False,J,https://ws.vlpar.be/e/opendata/vv/3446?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1483323
+1829397,4627,Jasper Pillen,Jasper,Pillen,Kieskring West-Vlaanderen,99,True,J,https://ws.vlpar.be/e/opendata/vv/4627?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2066747
+1829397,4061,Gwendolyn Rutten,Gwendolyn,Rutten,Kieskring Vlaams-Brabant,41,False,J,https://ws.vlpar.be/e/opendata/vv/4061?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1675189
+1829397,4629,Marianne Verhaert,Marianne,Verhaert,Kieskring Antwerpen,98,False,J,https://ws.vlpar.be/e/opendata/vv/4629?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2065832
+1829400,4620,M'Hamed Kasmi,M'Hamed,Kasmi,Kieskring Brussel-Hoofdstad,130,False,J,https://ws.vlpar.be/e/opendata/vv/4620?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=2066680
+-1,4422,Maurits Vande Reyde,Maurits,Vande Reyde,Kieskring Vlaams-Brabant,110,False,J,https://ws.vlpar.be/e/opendata/vv/4422?lang=nl,https://docs.vlaamsparlement.be/files/pfile?id=1955927

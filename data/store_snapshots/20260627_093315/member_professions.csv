@@ -1,0 +1,135 @@
+﻿member_id,titel,werkgever,datum_van,datum_tot,datum_van_formaat,datum_tot_formaat
+4383,kabinetsmedewerker gedeputeerde Jos Geuens,provincie Antwerpen,2007-10-01T00:00:00+0200,2008-10-01T00:00:00+0200,MM-YYYY,MM-YYYY
+4383,stafmedewerker,kabinet Vlaams minister Kathleen Van Brempt,2008-11-01T00:00:00+0100,2009-01-01T00:00:00+0100,MM-YYYY,MM-YYYY
+4383,inhoudelijk medewerker,sp.a provincie Antwerpen,2009-02-01T00:00:00+0100,2009-08-01T00:00:00+0200,MM-YYYY,MM-YYYY
+4383,beleidsmedewerker Welzijn,"Vlaamse overheid, departement Bestuurszaken",2010-05-01T00:00:00+0200,2011-12-01T00:00:00+0100,MM-YYYY,MM-YYYY
+4383,beleidsmedewerker Organisatieontwikkeling,"Vlaamse overheid, departement Bestuurszaken",2012-01-01T00:00:00+0100,2014-12-01T00:00:00+0100,MM-YYYY,MM-YYYY
+4383,beleidsmedewerker,"Vlaamse overheid, Agentschap voor Binnenlands Bestuur",2015-01-01T00:00:00+0100,2019-05-01T00:00:00+0200,MM-YYYY,MM-YYYY
+4601,Beleidsmedewerker organisatieontwikkeling en deskundige economie,Gemeentebestuur Lubbeek,2019-06-03T00:00:00+0200,2023-02-27T23:59:59+0100,DD-MM-YYYY,DD-MM-YYYY
+4601,"Inhoudelijk medewerker Werk, Sociale Zaken en Pensioenen Vlaams Belang-fractie",Kamer van Volksvertegenwoordigers,2023-03-01T00:00:00+0100,2024-06-08T23:59:59+0200,DD-MM-YYYY,DD-MM-YYYY
+4384,leraar,Ministerie van Onderwijs,2009-01-01T00:00:00+0100,2011-01-01T00:00:00+0100,YYYY,YYYY
+4384,meewerkende echtgenote,zelfstandige,2011-01-01T00:00:00+0100,2019-01-01T00:00:00+0100,YYYY,YYYY
+3430,parlementair medewerker,Kamer van Volksvertegenwoordigers,2002-01-01T00:00:00+0100,2003-01-01T00:00:00+0100,YYYY,YYYY
+3430,adviseur arbeidsmarktbeleid,UNIZO,2003-01-01T00:00:00+0100,2007-01-01T00:00:00+0100,YYYY,YYYY
+4607,Leerkracht,Sint-Victor Turnhout,1998-09-01T00:00:00+0200,2019-06-01T23:59:59+0200,DD-MM-YYYY,DD-MM-YYYY
+4114,advocaat,,2003-01-01T00:00:00+0100,2020-12-31T23:59:59+0100,YYYY,YYYY
+4114,jurist,stad Bilzen,2008-01-01T00:00:00+0100,2014-12-31T23:59:59+0100,YYYY,YYYY
+4661,Adviseur,kabinet van de minister van Justitie Stefaan De Clerck,1997-01-01T00:00:00+0100,1998-12-31T23:59:59+0100,YYYY,YYYY
+4661,Parlementair medewerker,volksvertegenwoordiger Stefaan De Clerck,1998-01-01T00:00:00+0100,2000-12-31T23:59:59+0100,YYYY,YYYY
+4661,"Onderzoeksopdracht aan de Universiteit Antwerpen, Law Commission, Pretoria, Zuid-Afrika; publicatie ‘Constitutional Law in South Africa’, Mys & Breesch",,1999-01-01T00:00:00+0100,1999-12-31T23:59:59+0100,YYYY,YYYY
+4661,Medewerker Institutionele Hervormingen,CD&V-Senaatsfractie,2000-01-01T00:00:00+0100,2002-12-31T23:59:59+0100,YYYY,YYYY
+4661,Fractiesecretaris,CD&V-Senaatsfractie,2002-01-01T00:00:00+0100,2004-12-31T23:59:59+0100,YYYY,YYYY
+4661,Advocaat,,2002-01-01T00:00:00+0100,2023-12-31T23:59:59+0100,YYYY,YYYY
+4661,Adjunct-kabinetschef,"minister-president van de Vlaamse Regering Yves Leterme - Kris Peeters (algemeen beleid, binnenlandse zaken, inburgering, institutionele hervormingen/ Begeleiding onderhandelingen regeringsformatie juli-december 2007)",2004-01-01T00:00:00+0100,2007-12-31T23:59:59+0100,YYYY,YYYY
+4661,Raadgever,"vicepremier en minister van Begroting, Mobiliteit, Institutionele Hervormingen en Noordzee Yves Leterme (Begeleiding onderhandelingen akkoord staatshervorming februari 2008)",2008-01-01T00:00:00+0100,2008-12-31T23:59:59+0100,YYYY,YYYY
+4661,"Raadgever, Eerste Minister Yves Leterme/ Herman Van Rompuy, voorzitter voorbereidende werkgroep Overlegcomité Federale Staat-Gemeenschappen-Gewesten",,2009-01-01T00:00:00+0100,2011-12-31T23:59:59+0100,YYYY,YYYY
+4661,Raadgever onderhandelingen,Koninklijk Onderhandelaar J.L. Dehaene,2009-01-01T00:00:00+0100,2010-12-31T23:59:59+0100,YYYY,YYYY
+4661,"Raadgever (BHV Gerechtelijk arrondissement, bevoegdheidsoverdrachten justitie, hervorming Overlegcomité, Verkeersveiligheidsfonds, samenwerkingsakkoorden justitie)",Staatssecretaris voor Staatshervorming Servais Verherstraeten,2011-01-01T00:00:00+0100,2014-12-31T23:59:59+0100,YYYY,YYYY
+4070,stagedoend ambtenaar,"departement Onderwijs, afdeling Beleidscoördinatie, secretariaat-generaal",2000-01-01T00:00:00+0100,2001-01-01T00:00:00+0100,YYYY,YYYY
+4070,wetenschappelijk medewerker,"Centrum voor onderwijsbeleid en -vernieuwing, KU Leuven",2002-01-01T00:00:00+0100,2003-01-01T00:00:00+0100,YYYY,YYYY
+4070,leerkracht(stage)coördinator,Technisch Instituut Sint-Carolus,2003-01-01T00:00:00+0100,2009-01-01T00:00:00+0100,YYYY,YYYY
+2791,project manager,ASLK NV,1995-01-01T00:00:00+0100,1999-01-01T00:00:00+0100,YYYY,YYYY
+2791,communicatieverantwoordelijke jongeren,Fortis Bank,2000-01-01T00:00:00+0100,2004-01-01T00:00:00+0100,YYYY,YYYY
+4395,kabinetsmedewerker Vlaams minister Fientje Moerman,Vlaamse regering,2003-01-01T00:00:00+0100,2006-01-01T00:00:00+0100,YYYY,YYYY
+4395,kabinetschef schepen Sas van Rouveroij,stad Gent,2006-01-01T00:00:00+0100,2009-01-01T00:00:00+0100,YYYY,YYYY
+4395,parlementair medewerker Vlaams volksvertegenwoordiger Sas van Rouveroij,Vlaams Parlement,2009-01-01T00:00:00+0100,2014-01-01T00:00:00+0100,YYYY,YYYY
+4395,adjunct-kabinetschef Vlaams minister Sven Gatz,Vlaamse regering,2014-01-01T00:00:00+0100,2019-01-01T00:00:00+0100,YYYY,YYYY
+4615,Huisarts,,1988-01-01T00:00:00+0100,,YYYY,
+4074,consulent,VDAB,1991-01-01T00:00:00+0100,1992-01-01T00:00:00+0100,YYYY,YYYY
+4074,sociaal inspecteur,RVA,1992-01-01T00:00:00+0100,1994-01-01T00:00:00+0100,YYYY,YYYY
+4074,medewerker,Vlaams Belang-fractie,1994-01-01T00:00:00+0100,1999-01-01T00:00:00+0100,YYYY,YYYY
+1803,journalist,,1984-01-01T00:00:00+0100,1986-01-01T00:00:00+0100,YYYY,YYYY
+4075,technisch commercieel vertegenwoordiger,Versele-Laga,1994-08-01T00:00:00+0200,1995-01-15T00:00:00+0100,DD-MM-YYYY,DD-MM-YYYY
+4075,landbouwconsulent,Boerenbond,1995-01-16T00:00:00+0100,1998-04-30T00:00:00+0200,DD-MM-YYYY,DD-MM-YYYY
+4075,provinciaal verantwoordelijke,Boerenbond en Landelijke Gilden West-Vlaanderen,1998-05-01T00:00:00+0200,2006-12-31T00:00:00+0100,DD-MM-YYYY,DD-MM-YYYY
+4075,consulent (parttime),Boerenbond,2007-01-01T00:00:00+0100,2014-07-01T00:00:00+0200,DD-MM-YYYY,DD-MM-YYYY
+4397,kabinetsmedewerker,stad Brussel,2012-01-01T00:00:00+0100,2014-01-01T00:00:00+0100,YYYY,YYYY
+4397,fractiesecretaris,Brussels Hoofdstedelijk Parlement,2014-01-01T00:00:00+0100,2016-01-01T00:00:00+0100,YYYY,YYYY
+4397,docent Europees migratiebeleid,Universiteit van Luik,2016-01-01T00:00:00+0100,2019-01-01T00:00:00+0100,YYYY,YYYY
+3445,advocaat,,1993-01-01T00:00:00+0100,,YYYY,
+3445,docent,,1994-01-01T00:00:00+0100,2009-01-01T00:00:00+0100,YYYY,YYYY
+4077,projectleider,GfE,1989-01-01T00:00:00+0100,1994-01-01T00:00:00+0100,YYYY,YYYY
+4077,managing director,Erbeko nv,1994-01-01T00:00:00+0100,2014-01-01T00:00:00+0100,YYYY,YYYY
+3411,coördinator,VKS Omnisport,1999-01-01T00:00:00+0100,2000-01-01T00:00:00+0100,YYYY,YYYY
+3411,parlementair medewerker,,2004-01-01T00:00:00+0100,2009-01-01T00:00:00+0100,YYYY,YYYY
+4400,leraar,ministerie van Onderwijs,1985-01-01T00:00:00+0100,2019-01-01T00:00:00+0100,YYYY,YYYY
+4400,universitair medewerker,Kamer van Volksvertegenwoordigers,2005-01-01T00:00:00+0100,2014-01-01T00:00:00+0100,YYYY,YYYY
+3418,notarieel medewerker,,2003-01-01T00:00:00+0100,2008-01-01T00:00:00+0100,YYYY,YYYY
+3418,politiek medewerker,Kamer van Volksvertegenwoordigers,2008-01-01T00:00:00+0100,2009-01-01T00:00:00+0100,YYYY,YYYY
+3965,advocaat,,2000-01-01T00:00:00+0100,2020-12-31T23:59:59+0100,YYYY,YYYY
+1847,gewezen bediende,nationaal secretariaat Vlaams Blok,1989-01-01T00:00:00+0100,1995-12-31T23:59:59+0100,YYYY,YYYY
+4110,raadgever,Vlaams minister Geert Bourgeois,2004-01-01T00:00:00+0100,2008-01-01T00:00:00+0100,YYYY,YYYY
+4110,parlementair medewerker,Vlaams Parlement,2008-01-01T00:00:00+0100,2009-01-01T00:00:00+0100,YYYY,YYYY
+4110,woordvoerder,Vlaams minister Geert Bourgeois,2009-01-01T00:00:00+0100,2010-01-01T00:00:00+0100,YYYY,YYYY
+4572,Consulent,CM Limburg,2008-01-01T00:00:00+0100,2012-12-31T23:59:59+0100,YYYY,YYYY
+4572,Teamverantwoordelijke,CM,2012-01-01T00:00:00+0100,2022-12-31T23:59:59+0100,YYYY,YYYY
+3461,economisch adviseur,VEV,1985-01-01T00:00:00+0100,1989-01-01T00:00:00+0100,YYYY,YYYY
+3461,directeur groep Seghers,Seghers Engineering,1989-01-01T00:00:00+0100,1992-01-01T00:00:00+0100,YYYY,YYYY
+3461,administrateur-generaal,SERV,1992-01-01T00:00:00+0100,1997-01-01T00:00:00+0100,YYYY,YYYY
+3461,directeur-generaal,VEV,1997-01-01T00:00:00+0100,2000-01-01T00:00:00+0100,YYYY,YYYY
+3461,gedelegeerd bestuurder,VOKA,2000-01-01T00:00:00+0100,2009-01-01T00:00:00+0100,YYYY,YYYY
+4651,"raadgever mobiliteit, openbare werken en SALK bij minister-president Geert Bourgeois",Vlaamse Regering,2015-01-04T00:00:00+0100,2019-10-01T23:59:59+0200,DD-MM-YYYY,DD-MM-YYYY
+4651,woordvoerder van Vlaams minister Zuhal Demir,Vlaamse Regering,2019-10-02T00:00:00+0200,2024-07-01T23:59:59+0200,DD-MM-YYYY,DD-MM-YYYY
+4651,kabinetschef van Vlaams minister Zuhal Demir,Vlaamse Regering,2022-01-01T00:00:00+0100,2024-07-01T23:59:59+0200,DD-MM-YYYY,DD-MM-YYYY
+4405,consulent,Tempo-Team,2010-01-01T00:00:00+0100,2010-01-01T00:00:00+0100,YYYY,YYYY
+4405,operation and conversation & account manager,Just-Eat,2010-01-01T00:00:00+0100,2011-01-01T00:00:00+0100,YYYY,YYYY
+4405,internal sales,Brunel ICT,2011-01-01T00:00:00+0100,2012-01-01T00:00:00+0100,YYYY,YYYY
+4405,vervangleerkracht,Technische Scholen Mechelen,2011-01-01T00:00:00+0100,2011-01-01T00:00:00+0100,YYYY,YYYY
+4405,marketeer,Solar Power Systems,2012-01-01T00:00:00+0100,2012-01-01T00:00:00+0100,YYYY,YYYY
+4405,persoonlijk medewerker,Senaat,2013-01-01T00:00:00+0100,2014-01-01T00:00:00+0100,YYYY,YYYY
+4405,kabinetsadviseur,stad Mechelen,2013-01-01T00:00:00+0100,2016-01-01T00:00:00+0100,YYYY,YYYY
+4405,parlementair medewerker,Vlaams Parlement,2014-01-01T00:00:00+0100,2019-01-01T00:00:00+0100,YYYY,YYYY
+3446,advocaat,,1992-01-01T00:00:00+0100,2006-12-31T23:59:59+0100,YYYY,YYYY
+4628,Assistent bij het Centrum voor sociologie,KU Leuven,2006-01-01T00:00:00+0100,2008-12-31T23:59:59+0100,YYYY,YYYY
+4628,Academisch onderzoeker,Steunpunt Bestuurlijke Organisatie Vlaanderen (SBOV),2008-01-01T00:00:00+0100,2011-12-31T23:59:59+0100,YYYY,YYYY
+4628,Doctoraatsonderzoeker,KU Leuven,2008-01-01T00:00:00+0100,2013-12-31T23:59:59+0100,YYYY,YYYY
+4628,Coördinator vorming en dienstverlening,Instituut voor de Overheid,2013-01-01T00:00:00+0100,2018-12-31T23:59:59+0100,YYYY,YYYY
+4628,Adviseur,SERV,2019-01-01T00:00:00+0100,2020-12-31T23:59:59+0100,YYYY,YYYY
+4406,adviseur communicatie,Vlaams minister Freya Van den Bossche,2013-01-01T00:00:00+0100,2014-01-01T00:00:00+0100,YYYY,YYYY
+4406,adviseur communicatie,sp.a,2015-01-01T00:00:00+0100,2017-01-01T00:00:00+0100,YYYY,YYYY
+4406,directeur communicatie,sp.a,2017-01-01T00:00:00+0100,2019-01-01T00:00:00+0100,YYYY,YYYY
+4744,Maatschappelijk werker,JAC,2020-01-01T00:00:00+0100,2020-12-31T23:59:59+0100,YYYY,YYYY
+4744,Kabinetsmedewerker Frank Vandenbroucke,,2020-01-01T00:00:00+0100,2025-12-31T23:59:59+0100,YYYY,YYYY
+4744,Maatschappelijk werker,CLB,2025-01-01T00:00:00+0100,2026-01-20T23:59:59+0100,YYYY,DD-MM-YYYY
+3221,bediende,Ethias verzekeringen,2000-01-01T00:00:00+0100,2001-01-01T00:00:00+0100,YYYY,YYYY
+3221,dossierbeheerder,AXA verzekeringen,2001-01-01T00:00:00+0100,2002-01-01T00:00:00+0100,YYYY,YYYY
+3221,bediende,Xios Hogeschool,2002-01-01T00:00:00+0100,2003-01-01T00:00:00+0100,YYYY,YYYY
+4409,leerkracht,Instituut Maria Middelares,1995-09-01T00:00:00+0200,1998-02-28T00:00:00+0100,DD-MM-YYYY,DD-MM-YYYY
+4409,wetenschappelijk medewerker,UGent,1996-03-01T00:00:00+0100,1998-02-28T00:00:00+0100,DD-MM-YYYY,DD-MM-YYYY
+4409,beleidsmedewerker,Velt vzw,1998-03-01T00:00:00+0100,2004-03-31T00:00:00+0200,DD-MM-YYYY,DD-MM-YYYY
+4409,beleidsmedewerker,"Vlaamse overheid, Agentschap voor Natuur en Bos",2004-04-01T00:00:00+0200,2009-12-31T00:00:00+0100,DD-MM-YYYY,DD-MM-YYYY
+4409,ingenieur,stad Gent,2010-01-01T00:00:00+0100,2016-06-30T00:00:00+0200,DD-MM-YYYY,DD-MM-YYYY
+4409,directeur,stad Gent,2016-07-01T00:00:00+0200,2019-05-21T00:00:00+0200,DD-MM-YYYY,DD-MM-YYYY
+4087,aspirant FWO en assistent communicatiewetenschappen,VUBrussel,1989-01-01T00:00:00+0100,1998-01-01T00:00:00+0100,YYYY,YYYY
+4087,professor communicatiewetenschappen,VUBrussel,1998-01-01T00:00:00+0100,,YYYY,
+4410,vacatureconsulent,VDAB,2003-01-01T00:00:00+0100,2007-01-01T00:00:00+0100,YYYY,YYYY
+4410,parlementair medewerker,Vlaams Belang,2007-01-01T00:00:00+0100,2019-01-01T00:00:00+0100,YYYY,YYYY
+4412,parlementair medewerker,Brussels Hoofdstedelijk Parlement,2009-01-01T00:00:00+0100,2011-01-01T00:00:00+0100,YYYY,YYYY
+4412,nationaal woordvoerder,Vlaams Belang,2011-01-01T00:00:00+0100,2019-01-01T00:00:00+0100,YYYY,YYYY
+4416,beroepsmilitair,,1993-01-01T00:00:00+0100,1996-01-01T00:00:00+0100,YYYY,YYYY
+4416,administratief medewerker,,2000-01-01T00:00:00+0100,2008-01-01T00:00:00+0100,YYYY,YYYY
+4416,zelfstandig hondenkapper,,2010-01-01T00:00:00+0100,,YYYY,
+2825,bediende,Blokker NV,1984-01-01T00:00:00+0100,1992-01-01T00:00:00+0100,YYYY,YYYY
+2825,bediende,Spanjersberg,1993-01-01T00:00:00+0100,1997-01-01T00:00:00+0100,YYYY,YYYY
+2825,arbeider,,1997-01-01T00:00:00+0100,2004-01-01T00:00:00+0100,YYYY,YYYY
+4089,leerkracht volwassenenonderwijs,CVO Lethas,2003-01-01T00:00:00+0100,2007-01-01T00:00:00+0100,YYYY,YYYY
+4089,medewerker,N-VA Kamerfractie,2007-01-01T00:00:00+0100,2009-01-01T00:00:00+0100,YYYY,YYYY
+4089,persoonlijk medewerker,"Vlaams minister van Financiën, Begroting, Werk, Ruimtelijke Ordening en Sport",2009-01-01T00:00:00+0100,2010-01-01T00:00:00+0100,YYYY,YYYY
+4648,Zelfstandige Logopediste,,1998-01-01T00:00:00+0100,2010-12-31T23:59:59+0100,YYYY,YYYY
+4648,Provinciaal bewegingsverantwoordelijke voor N-VA in de provincie Vlaams-Brabant,,2010-01-01T00:00:00+0100,2015-12-31T23:59:59+0100,YYYY,YYYY
+4648,Communicatiemedewerker voor Provinciegouverneur Jan Spooren in Vlaams-Brabant,,2020-01-01T00:00:00+0100,2024-12-31T23:59:59+0100,YYYY,YYYY
+4415,huisarts,vzw Geneeskunde voor het Volk,,,,
+4728,Jurist,Notariskantoor,2020-01-01T00:00:00+0100,2023-12-31T23:59:59+0100,YYYY,YYYY
+3458,adjunct van de directie,Stad Gent,1999-01-01T00:00:00+0100,2000-12-31T23:59:59+0100,YYYY,YYYY
+3458,klinisch psychologe,Karus,2018-01-01T00:00:00+0100,2023-12-31T23:59:59+0100,YYYY,YYYY
+3458,klinisch psychologe,zelfstandige,2024-01-01T00:00:00+0100,,YYYY,
+4095,advocate/fiscaliste,,1997-01-01T00:00:00+0100,2007-01-01T00:00:00+0100,YYYY,YYYY
+4425,leerkracht secundair onderwijs,Technisch Instituut Immaculata Ieper,2002-09-01T00:00:00+0200,,DD-MM-YYYY,
+4425,parlementair medewerker,Vlaams Parlement,,2019-05-26T00:00:00+0200,,DD-MM-YYYY
+4102,zelfstandig advocaat,,1994-01-01T00:00:00+0100,2014-01-01T00:00:00+0100,YYYY,YYYY
+4643,Politieagent,Politie Antwerpen,1992-01-01T00:00:00+0100,2000-12-31T23:59:59+0100,YYYY,YYYY
+4643,Zelfstandig ondernemer in de sport- en vastgoedsector,,2000-01-01T00:00:00+0100,2024-12-31T23:59:59+0100,YYYY,YYYY
+4064,Prokorist-Vertriebsleiter,Miko-Hordijk GmbH,2001-01-01T00:00:00+0100,2014-01-01T00:00:00+0100,YYYY,YYYY
+4443,Gastprofessor Bestuursrecht,Universiteit Gent,2025-10-01T00:00:00+0200,,DD-MM-YYYY,
+4429,kwaliteitscontroleur,Delacre (Vilvoorde),1986-01-01T00:00:00+0100,1992-12-31T23:59:59+0100,YYYY,YYYY
+4429,Logistiek assistente,UZ Leuven,1993-04-01T00:00:00+0200,2019-08-31T23:59:59+0200,DD-MM-YYYY,DD-MM-YYYY

@@ -1,0 +1,1312 @@
+[
+  {
+    "seat_number": 1,
+    "x": 110.734,
+    "y": 22.3,
+    "member_label": "Chris Janssens",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/chris-janssens",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 2,
+    "x": 119.896,
+    "y": 27.902,
+    "member_label": "Roosmarijn Beckers",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/roosmarijn-beckers",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 3,
+    "x": 128.565,
+    "y": 32.029,
+    "member_label": "Filip Brusselmans",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/filip-brusselmans",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 4,
+    "x": 147.447,
+    "y": 38.116,
+    "member_label": "Liesbeth Homans",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/liesbeth-homans",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 5,
+    "x": 157.812,
+    "y": 39.791,
+    "member_label": "Philippe Muyters",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/philippe-muyters",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 6,
+    "x": 167.069,
+    "y": 40.536,
+    "member_label": "Bert Maertens",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/bert-maertens",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 7,
+    "x": 176.882,
+    "y": 40.596,
+    "member_label": "Peter Van Rompuy",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/peter-van-rompuy",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 8,
+    "x": 186.201,
+    "y": 39.937,
+    "member_label": "Hannes Anaf",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/hannes-anaf",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 9,
+    "x": 197.145,
+    "y": 38.208,
+    "member_label": "Kris Verduyckt",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/kris-verduyckt",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 10,
+    "x": 217.164,
+    "y": 31.802,
+    "member_label": "Egbert Lachaert",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/egbert-lachaert",
+    "faction_id": "12456",
+    "faction_name": "Anders.",
+    "faction_color": "#3F38FF"
+  },
+  {
+    "seat_number": 11,
+    "x": 225.966,
+    "y": 27.55,
+    "member_label": "Mieke Schauvliege",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/mieke-schauvliege",
+    "faction_id": "12474",
+    "faction_name": "Groen",
+    "faction_color": "#83DE62"
+  },
+  {
+    "seat_number": 12,
+    "x": 235.266,
+    "y": 22.075,
+    "member_label": "Jos D'Haese",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/jos-dhaese",
+    "faction_id": "12453",
+    "faction_name": "PVDA",
+    "faction_color": "#AA050E"
+  },
+  {
+    "seat_number": 13,
+    "x": 95.413,
+    "y": 31.761,
+    "member_label": "Klaas Slootmans",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/klaas-slootmans",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 14,
+    "x": 103.731,
+    "y": 37.405,
+    "member_label": "Freija Van den Driessche",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/freija-van-den-driessche",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 15,
+    "x": 111.651,
+    "y": 42.097,
+    "member_label": "Bart Claes",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/bart-claes",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 16,
+    "x": 120.008,
+    "y": 46.206,
+    "member_label": "Immanuel De Reuse",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/immanuel-de-reuse",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 17,
+    "x": 141.213,
+    "y": 53.541,
+    "member_label": "Karolien Grosemans",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/karolien-grosemans",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 18,
+    "x": 151.859,
+    "y": 55.672,
+    "member_label": "Sander Loones",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/sander-loones",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 19,
+    "x": 161.576,
+    "y": 56.761,
+    "member_label": "Griet Vanryckegem",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/griet-vanryckegem",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 20,
+    "x": 171.943,
+    "y": 57.203,
+    "member_label": "Katrien Schryvers",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/katrien-schryvers",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 21,
+    "x": 182.01,
+    "y": 56.906,
+    "member_label": "Robrecht Bothuyne",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/robrecht-bothuyne",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 22,
+    "x": 191.939,
+    "y": 55.954,
+    "member_label": "Kurt De Loor",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/kurt-de-loor",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 23,
+    "x": 203.522,
+    "y": 53.634,
+    "member_label": "Gianna Werbrouck",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/gianna-werbrouck",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 24,
+    "x": 225.899,
+    "y": 46.0,
+    "member_label": "Lydia Peeters",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/lydia-peeters",
+    "faction_id": "12456",
+    "faction_name": "Anders.",
+    "faction_color": "#3F38FF"
+  },
+  {
+    "seat_number": 25,
+    "x": 234.231,
+    "y": 41.909,
+    "member_label": "Jeremie Vaneeckhout",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/jeremie-vaneeckhout",
+    "faction_id": "12474",
+    "faction_name": "Groen",
+    "faction_color": "#83DE62"
+  },
+  {
+    "seat_number": 26,
+    "x": 241.823,
+    "y": 37.138,
+    "member_label": "Aimen Horch",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/aimen-horch",
+    "faction_id": "12474",
+    "faction_name": "Groen",
+    "faction_color": "#83DE62"
+  },
+  {
+    "seat_number": 27,
+    "x": 250.127,
+    "y": 31.528,
+    "member_label": "Lise Vandecasteele",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/lise-vandecasteele",
+    "faction_id": "12453",
+    "faction_name": "PVDA",
+    "faction_color": "#AA050E"
+  },
+  {
+    "seat_number": 28,
+    "x": 81.298,
+    "y": 41.924,
+    "member_label": "Filip Dewinter",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/filip-dewinter",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 29,
+    "x": 90.588,
+    "y": 49.033,
+    "member_label": "Dominiek Lootens-Stael",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/dominiek-lootens-stael",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 30,
+    "x": 99.583,
+    "y": 54.648,
+    "member_label": "Anke Van dermeersch",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/anke-van-dermeersch",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 31,
+    "x": 109.453,
+    "y": 59.864,
+    "member_label": "Stefaan Sintobin",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/stefaan-sintobin",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 32,
+    "x": 133.636,
+    "y": 68.962,
+    "member_label": "Sarah Smeyers",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/sarah-smeyers",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 33,
+    "x": 144.017,
+    "y": 71.359,
+    "member_label": "Katrien Houtmeyers",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/katrien-houtmeyers",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 34,
+    "x": 153.402,
+    "y": 72.823,
+    "member_label": "Nadia Sminate",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/nadia-sminate",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 35,
+    "x": 162.393,
+    "y": 73.718,
+    "member_label": "Koen Daniëls",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/koen-daniels",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 36,
+    "x": 171.929,
+    "y": 74.076,
+    "member_label": "Bart Dochy",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/bart-dochy",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 37,
+    "x": 181.85,
+    "y": 73.797,
+    "member_label": "Loes Vandromme",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/loes-vandromme",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 38,
+    "x": 191.293,
+    "y": 72.959,
+    "member_label": "Katrien Partyka",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/katrien-partyka",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 39,
+    "x": 200.426,
+    "y": 71.482,
+    "member_label": "Els Robeyns",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/els-robeyns",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 40,
+    "x": 211.208,
+    "y": 69.012,
+    "member_label": "Nawal Maghroud",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/nawal-maghroud",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 41,
+    "x": 236.343,
+    "y": 59.595,
+    "member_label": "Gwendolyn Rutten",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/gwendolyn-rutten",
+    "faction_id": "12456",
+    "faction_name": "Anders.",
+    "faction_color": "#3F38FF"
+  },
+  {
+    "seat_number": 42,
+    "x": 246.197,
+    "y": 54.436,
+    "member_label": "Nadia Naji",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/nadia-naji",
+    "faction_id": "12474",
+    "faction_name": "Groen",
+    "faction_color": "#83DE62"
+  },
+  {
+    "seat_number": 43,
+    "x": 254.468,
+    "y": 48.782,
+    "member_label": "Fourat Ben Chikha",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/fourat-ben-chikha",
+    "faction_id": "12474",
+    "faction_name": "Groen",
+    "faction_color": "#83DE62"
+  },
+  {
+    "seat_number": 44,
+    "x": 263.967,
+    "y": 42.143,
+    "member_label": "Line De Witte",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/line-de-witte",
+    "faction_id": "12453",
+    "faction_name": "PVDA",
+    "faction_color": "#AA050E"
+  },
+  {
+    "seat_number": 45,
+    "x": 66.384,
+    "y": 51.276,
+    "member_label": "Tom Lamont",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/tom-lamont",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 46,
+    "x": 75.516,
+    "y": 58.561,
+    "member_label": "Johan Deckmyn",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/johan-deckmyn",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 47,
+    "x": 83.888,
+    "y": 64.541,
+    "member_label": "Kristof Slagmulder",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/kristof-slagmulder",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 48,
+    "x": 92.761,
+    "y": 70.114,
+    "member_label": "Adeline Blancquaert",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/adeline-blancquaert",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 49,
+    "x": 134.983,
+    "y": 86.533,
+    "member_label": "Karl Vanlouwe",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/karl-vanlouwe",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 50,
+    "x": 146.03,
+    "y": 88.688,
+    "member_label": "Arnout Coel",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/arnout-coel",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 51,
+    "x": 156.59,
+    "y": 90.013,
+    "member_label": "Sofie Joosen",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/sofie-joosen",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 52,
+    "x": 167.384,
+    "y": 90.65,
+    "member_label": "Paul Van Miert",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/paul-van-miert",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 53,
+    "x": 177.837,
+    "y": 90.665,
+    "member_label": "Brecht Warnez",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/brecht-warnez",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 54,
+    "x": 188.213,
+    "y": 90.056,
+    "member_label": "An Christiaens",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/an-christiaens",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 55,
+    "x": 198.405,
+    "y": 88.816,
+    "member_label": "Katia Segers",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/katia-segers",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 56,
+    "x": 209.842,
+    "y": 86.719,
+    "member_label": "Tina Van Havere",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/tina-van-havere",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 57,
+    "x": 252.876,
+    "y": 69.91,
+    "member_label": "Eva De Bleeker",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/eva-de-bleeker",
+    "faction_id": "12456",
+    "faction_name": "Anders.",
+    "faction_color": "#3F38FF"
+  },
+  {
+    "seat_number": 58,
+    "x": 261.625,
+    "y": 64.291,
+    "member_label": "Eva Platteau",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/eva-platteau",
+    "faction_id": "12474",
+    "faction_name": "Groen",
+    "faction_color": "#83DE62"
+  },
+  {
+    "seat_number": 59,
+    "x": 269.89,
+    "y": 58.647,
+    "member_label": "Gaby Colebunders",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/gaby-colebunders",
+    "faction_id": "12453",
+    "faction_name": "PVDA",
+    "faction_color": "#AA050E"
+  },
+  {
+    "seat_number": 60,
+    "x": 278.405,
+    "y": 51.595,
+    "member_label": "Raf Van Gestel",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/raf-van-gestel",
+    "faction_id": "12453",
+    "faction_name": "PVDA",
+    "faction_color": "#AA050E"
+  },
+  {
+    "seat_number": 61,
+    "x": 51.799,
+    "y": 60.074,
+    "member_label": "Carmen Ryheul",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/carmen-ryheul",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 62,
+    "x": 60.101,
+    "y": 67.106,
+    "member_label": "Dries Devillé",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/dries-deville",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 63,
+    "x": 67.774,
+    "y": 73.429,
+    "member_label": "Mercina Claesen",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/mercina-claesen",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 64,
+    "x": 75.96,
+    "y": 78.835,
+    "member_label": "Jan Laeremans",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/jan-laeremans",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 65,
+    "x": 84.204,
+    "y": 84.063,
+    "member_label": "Wim Verheyden",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/wim-verheyden",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 66,
+    "x": 127.582,
+    "y": 101.64,
+    "member_label": "Eva Ryde",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/eva-ryde",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 67,
+    "x": 138.303,
+    "y": 103.891,
+    "member_label": "Tom Seurs",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/tom-seurs",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 68,
+    "x": 147.847,
+    "y": 105.49,
+    "member_label": "Andries Gryffroy",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/andries-gryffroy",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 69,
+    "x": 157.683,
+    "y": 106.529,
+    "member_label": "Freya Perdaens",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/freya-perdaens",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 70,
+    "x": 167.809,
+    "y": 107.063,
+    "member_label": "Tomas Roggeman",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/tomas-roggeman",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 71,
+    "x": 178.018,
+    "y": 107.075,
+    "member_label": "Sofie Mertens",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/sofie-mertens",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 72,
+    "x": 187.253,
+    "y": 106.564,
+    "member_label": "Stijn De Roo",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/stijn-de-roo",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 73,
+    "x": 197.203,
+    "y": 105.57,
+    "member_label": "Frederik Sioen",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/frederik-sioen",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 74,
+    "x": 206.675,
+    "y": 103.972,
+    "member_label": "Kelly Van Tendeloo",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/kelly-van-tendeloo",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 75,
+    "x": 217.339,
+    "y": 101.724,
+    "member_label": "Hiba Faraji",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/hiba-faraji",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 76,
+    "x": 261.229,
+    "y": 83.886,
+    "member_label": "Tom Ongena",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/tom-ongena",
+    "faction_id": "12456",
+    "faction_name": "Anders.",
+    "faction_color": "#3F38FF"
+  },
+  {
+    "seat_number": 77,
+    "x": 269.582,
+    "y": 78.828,
+    "member_label": "Stephanie D'Hose",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/stephanie-dhose",
+    "faction_id": "12456",
+    "faction_name": "Anders.",
+    "faction_color": "#3F38FF"
+  },
+  {
+    "seat_number": 78,
+    "x": 277.062,
+    "y": 73.377,
+    "member_label": "Kim Buyst",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/kim-buyst",
+    "faction_id": "12474",
+    "faction_name": "Groen",
+    "faction_color": "#83DE62"
+  },
+  {
+    "seat_number": 79,
+    "x": 284.581,
+    "y": 67.696,
+    "member_label": "Ilona Vandenberghe",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/ilona-vandenberghe",
+    "faction_id": "12453",
+    "faction_name": "PVDA",
+    "faction_color": "#AA050E"
+  },
+  {
+    "seat_number": 80,
+    "x": 292.6,
+    "y": 60.749,
+    "member_label": "Debby Burssens",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/debby-burssens",
+    "faction_id": "12453",
+    "faction_name": "PVDA",
+    "faction_color": "#AA050E"
+  },
+  {
+    "seat_number": 81,
+    "x": 37.326,
+    "y": 68.896,
+    "member_label": "Yves Buysse",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/yves-buysse",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 82,
+    "x": 45.084,
+    "y": 75.826,
+    "member_label": "Els Sterckx",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/els-sterckx",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 83,
+    "x": 52.538,
+    "y": 82.114,
+    "member_label": "Suzy Wouters",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/suzy-wouters",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 84,
+    "x": 60.032,
+    "y": 87.647,
+    "member_label": "Michiel Awouters",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/michiel-awouters",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 85,
+    "x": 67.537,
+    "y": 92.821,
+    "member_label": "Bart Van Opstal",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/bart-van-opstal",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 86,
+    "x": 75.534,
+    "y": 97.843,
+    "member_label": "Sarah T'Joens",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/sarah-tjoens",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 87,
+    "x": 120.777,
+    "y": 116.681,
+    "member_label": "Andy Pieters",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/andy-pieters",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 88,
+    "x": 131.704,
+    "y": 119.2,
+    "member_label": "Ine Tombeur",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/ine-tombeur",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 89,
+    "x": 141.976,
+    "y": 121.111,
+    "member_label": "Gijs Degrande",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/gijs-degrande",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 90,
+    "x": 152.523,
+    "y": 122.421,
+    "member_label": "Sanne Van Looy",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/sanne-van-looy",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 91,
+    "x": 162.689,
+    "y": 123.224,
+    "member_label": "Koen Dillen",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/koen-dillen",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 92,
+    "x": 173.761,
+    "y": 123.488,
+    "member_label": "Mien Van Olmen",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/mien-van-olmen",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 93,
+    "x": 183.776,
+    "y": 123.18,
+    "member_label": "Gilles Bultinck",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/gilles-bultinck",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 94,
+    "x": 193.725,
+    "y": 122.376,
+    "member_label": "Kris Poelaert",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/kris-poelaert",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 95,
+    "x": 203.832,
+    "y": 121.071,
+    "member_label": "Hannelore Goeman",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/hannelore-goeman",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 96,
+    "x": 213.711,
+    "y": 119.24,
+    "member_label": "Jill Schellens",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/jill-schellens",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 97,
+    "x": 224.33,
+    "y": 116.724,
+    "member_label": "Stephanie Vanden Eede",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/stephanie-vanden-eede",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 98,
+    "x": 269.788,
+    "y": 97.848,
+    "member_label": "Marianne Verhaert",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/marianne-verhaert",
+    "faction_id": "12456",
+    "faction_name": "Anders.",
+    "faction_color": "#3F38FF"
+  },
+  {
+    "seat_number": 99,
+    "x": 277.635,
+    "y": 92.876,
+    "member_label": "Jasper Pillen",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/jasper-pillen",
+    "faction_id": "12456",
+    "faction_name": "Anders.",
+    "faction_color": "#3F38FF"
+  },
+  {
+    "seat_number": 100,
+    "x": 285.005,
+    "y": 87.629,
+    "member_label": "Bogdan Vanden Berghe",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/bogdan-vanden-berghe",
+    "faction_id": "12474",
+    "faction_name": "Groen",
+    "faction_color": "#83DE62"
+  },
+  {
+    "seat_number": 101,
+    "x": 292.575,
+    "y": 82.48,
+    "member_label": "Bram Jaques",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/bram-jaques",
+    "faction_id": "12474",
+    "faction_name": "Groen",
+    "faction_color": "#83DE62"
+  },
+  {
+    "seat_number": 102,
+    "x": 299.293,
+    "y": 76.621,
+    "member_label": "Onno Vandewalle",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/onno-vandewalle",
+    "faction_id": "12453",
+    "faction_name": "PVDA",
+    "faction_color": "#AA050E"
+  },
+  {
+    "seat_number": 103,
+    "x": 306.769,
+    "y": 70.015,
+    "member_label": "Amina Vandenheuvel",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/amina-vandenheuvel",
+    "faction_id": "12453",
+    "faction_name": "PVDA",
+    "faction_color": "#AA050E"
+  },
+  {
+    "seat_number": 104,
+    "x": 22.983,
+    "y": 78.099,
+    "member_label": "Tom Van Grieken",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/tom-van-grieken",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 105,
+    "x": 30.209,
+    "y": 85.107,
+    "member_label": "Guy D'haeseleer",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/guy-dhaeseleer",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 106,
+    "x": 37.242,
+    "y": 91.109,
+    "member_label": "Ilse Malfroot",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/ilse-malfroot",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 107,
+    "x": 44.343,
+    "y": 96.731,
+    "member_label": "Leo Pieters",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/leo-pieters",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 108,
+    "x": 51.578,
+    "y": 102.113,
+    "member_label": "Frédéric Erens",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/frederic-erens",
+    "faction_id": "12450",
+    "faction_name": "Vlaams Belang",
+    "faction_color": "#FFE500"
+  },
+  {
+    "seat_number": 109,
+    "x": 58.864,
+    "y": 107.093,
+    "member_label": null,
+    "member_url": null,
+    "faction_id": null,
+    "faction_name": null,
+    "faction_color": null
+  },
+  {
+    "seat_number": 110,
+    "x": 66.564,
+    "y": 112.041,
+    "member_label": "Maurits Vande Reyde",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/maurits-vande-reyde",
+    "faction_id": "918",
+    "faction_name": "Onafhankelijke",
+    "faction_color": "#787878"
+  },
+  {
+    "seat_number": 111,
+    "x": 113.362,
+    "y": 131.911,
+    "member_label": "Marc Hendrickx",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/marc-hendrickx",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 112,
+    "x": 123.843,
+    "y": 134.507,
+    "member_label": "An Hermans",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/an-hermans",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 113,
+    "x": 133.582,
+    "y": 136.578,
+    "member_label": "Manu Diericx",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/manu-diericx",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 114,
+    "x": 143.283,
+    "y": 138.179,
+    "member_label": "Jurgen Callaerts",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/jurgen-callaerts",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 115,
+    "x": 153.518,
+    "y": 139.286,
+    "member_label": "Hans Vanhoof",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/hans-vanhoof",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 116,
+    "x": 163.411,
+    "y": 139.946,
+    "member_label": "Mieke Claes",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/mieke-claes",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 117,
+    "x": 173.909,
+    "y": 140.172,
+    "member_label": "Inge Brocken",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/inge-brocken",
+    "faction_id": "12459",
+    "faction_name": "N-VA",
+    "faction_color": "#FFAC12"
+  },
+  {
+    "seat_number": 118,
+    "x": 183.889,
+    "y": 139.875,
+    "member_label": "Kris Declercq",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/kris-declercq",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 119,
+    "x": 193.508,
+    "y": 139.173,
+    "member_label": "Lien Van Dooren",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/lien-van-dooren",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 120,
+    "x": 202.914,
+    "y": 138.047,
+    "member_label": "Toon Vandeurzen",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/toon-vandeurzen",
+    "faction_id": "12465",
+    "faction_name": "cd&v",
+    "faction_color": "#F5822A"
+  },
+  {
+    "seat_number": 121,
+    "x": 212.496,
+    "y": 136.445,
+    "member_label": "Bieke Verlinden",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/bieke-verlinden",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 122,
+    "x": 222.087,
+    "y": 134.434,
+    "member_label": "Simon Bekaert",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/simon-bekaert",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 123,
+    "x": 232.203,
+    "y": 131.875,
+    "member_label": "Conner Rousseau",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/conner-rousseau",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 124,
+    "x": 278.958,
+    "y": 111.947,
+    "member_label": null,
+    "member_url": null,
+    "faction_id": null,
+    "faction_name": null,
+    "faction_color": null
+  },
+  {
+    "seat_number": 125,
+    "x": 286.173,
+    "y": 107.04,
+    "member_label": "Freya Van den Bossche",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/freya-van-den-bossche",
+    "faction_id": "12471",
+    "faction_name": "Vooruit",
+    "faction_color": "#FF2900"
+  },
+  {
+    "seat_number": 126,
+    "x": 293.751,
+    "y": 102.12,
+    "member_label": null,
+    "member_url": null,
+    "faction_id": null,
+    "faction_name": null,
+    "faction_color": null
+  },
+  {
+    "seat_number": 127,
+    "x": 300.836,
+    "y": 96.779,
+    "member_label": null,
+    "member_url": null,
+    "faction_id": null,
+    "faction_name": null,
+    "faction_color": null
+  },
+  {
+    "seat_number": 128,
+    "x": 307.648,
+    "y": 91.51,
+    "member_label": null,
+    "member_url": null,
+    "faction_id": null,
+    "faction_name": null,
+    "faction_color": null
+  },
+  {
+    "seat_number": 129,
+    "x": 314.269,
+    "y": 85.79,
+    "member_label": null,
+    "member_url": null,
+    "faction_id": null,
+    "faction_name": null,
+    "faction_color": null
+  },
+  {
+    "seat_number": 130,
+    "x": 321.306,
+    "y": 79.06,
+    "member_label": "M'Hamed Kasmi",
+    "member_url": "/nl/vlaamse-volksvertegenwoordigers-het-vlaams-parlement/mhamed-kasmi",
+    "faction_id": "12489",
+    "faction_name": "Team Fouad Ahidar",
+    "faction_color": "#5E17ED"
+  },
+  {
+    "seat_number": 131,
+    "x": 172.5,
+    "y": 16.5,
+    "member_label": null,
+    "member_url": null,
+    "faction_id": null,
+    "faction_name": null,
+    "faction_color": null
+  }
+]

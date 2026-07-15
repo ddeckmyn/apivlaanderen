@@ -1,0 +1,8 @@
+{
+  "last_successful_sync": "2026-06-27",
+  "last_run_at": "2026-06-27T09:33:31",
+  "bootstrap_since": "2024-06-09",
+  "rolling_days": 45,
+  "published_workbook": "data/published/vlaams_parlement_data_20260627_093316.xlsx",
+  "current_store_dir": "data/store_snapshots/20260627_093315"
+}
